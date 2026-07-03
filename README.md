@@ -1,7 +1,7 @@
-[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/Ahmad11420)
+[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/ahmadch-fd)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋+I'm+Ahmad+Bilal+" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!+👋+I'm+Ahmad+Bilal;Flutter+Developer;Dart+%7C+Firebase+%7C+APIs" />
 </h1>
 
 <div align="center">
@@ -12,19 +12,19 @@
 
 ### 👨‍🎓 About Me  
 **I'm Ahmad Bilal, a passionate Flutter Developer from Pakistan.**  
-I love transforming creative designs into smooth and functional mobile apps. My journey in tech revolves around constant learning and improving my skills in Flutter, Dart, and modern app development tools.
+I love transforming creative designs into smooth and functional mobile apps. My journey in tech revolves around constant learning and improving my skills in Flutter, Dart, Firebase, APIs, and modern app development tools.
 
 ---
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Ahmad11420&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmad11420" /> 
+  <img src="https://komarev.com/ghpvc/?username=ahmadch-fd&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadch-fd" /> 
 </p>
 
-- 🔭 I’m currently working on **[Flutter Projects](https://github.com/Ahmad11420)**
-- 🌱 I’m currently learning **Flutter APIs**
-- 👯 I’m looking to collaborate on **interesting projects**
-- 👨‍💻 My complete portfolio is available at [https://github.com/Ahmad11420](https://github.com/Ahmad11420)
-- 💬 Ask me about **Flutter, Dart **
+- 🔭 I’m currently working on **[Flutter Projects](https://github.com/ahmadch-fd)**
+- 🌱 I’m currently learning **Flutter APIs, Firebase & State Management**
+- 👯 I’m looking to collaborate on **Flutter mobile app projects**
+- 👨‍💻 My complete portfolio is available at [GitHub Portfolio](https://github.com/ahmadch-fd)
+- 💬 Ask me about **Flutter, Dart, Firebase, REST APIs**
 - 📫 Reach me at **contact2ahmadch@gmail.com**
 - ⚡ Fun fact: **I think I'm funny**
 
@@ -53,66 +53,42 @@ I love transforming creative designs into smooth and functional mobile apps. My 
   </a>
 </p>
 
-
-
 ---
 
 ### 🛠️ Languages and Tools
+
 <p align="center">
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="Dart"/><br>Dart
-      </td>
-      <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter"/><br>Flutter
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio"/><br>Android Studio
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="VS Code"/><br>VS Code
-      </td>
-      <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/><br>Git
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>Python
-      </td>
-     </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,python" />
 </p>
 
 ---
 
 ### 📊 Top Languages Used
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad11420&layout=compact&theme=tokyonight&langs_count=8&hide=html,css,scss" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadch-fd&layout=compact&theme=tokyonight&langs_count=8&hide=html,css,scss" />
 </p>
 
+---
+
+<h3 align="center">📈 GitHub Activity</h3>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadch-fd&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" alt="Ahmad Bilal's GitHub Activity" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/ahmadch-fd">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadch-fd&theme=transparent" />
+  </a>
+  <a href="https://github.com/ahmadch-fd">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadch-fd&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/ahmadch-fd">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmadch-fd&theme=transparent" />
+  </a>
+</div>
 
 ---
 
-<h3 align="center">GitHub Activity</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmad11420&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" alt="Ahmad Bilal's GitHub Activity" />
-</div>
-<div align="center">
-  <a href="https://github.com/ahmadch-fd">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmad11420&theme=transparent" />
-  </a>
-  <a href="https://github.com/ahmadch-fd">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad11420&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/ahmadch-fd">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmad11420&theme=transparent" />
-  </a>
-</div>
-
-  <!-- Wavy Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:9B5DE5&height=100&section=footer" />
----
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:9B5DE5&height=100&section=footer" />
