@@ -100,13 +100,13 @@ I love transforming creative designs into smooth and functional mobile apps. My 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmad11420&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" alt="Ahmad Bilal's GitHub Activity" />
 </div>
 <div align="center">
-  <a href="https://github.com/Ahmad11420">
+  <a href="https://github.com/ahmadch-fd">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmad11420&theme=transparent" />
   </a>
-  <a href="https://github.com/Ahmad11420">
+  <a href="https://github.com/ahmadch-fd">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad11420&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/Ahmad11420">
+  <a href="https://github.com/ahmadch-fd">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmad11420&theme=transparent" />
   </a>
 </div>
