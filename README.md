@@ -21,10 +21,9 @@ I love transforming creative designs into smooth and functional mobile apps. My 
 </p>
 
 - 🔭 I’m currently working on **[Flutter Projects](https://github.com/ahmadch-fd)**
-- 🌱 I’m currently learning **Flutter APIs, Firebase & State Management**
 - 👯 I’m looking to collaborate on **Flutter mobile app projects**
 - 👨‍💻 My complete portfolio is available at [GitHub Portfolio](https://github.com/ahmadch-fd)
-- 💬 Ask me about **Flutter, Dart, Firebase, REST APIs**
+- 💬 Ask me about **Flutter, Dart, Firebase, REST APIs,Provider State Management**
 - 📫 Reach me at **contact2ahmadch@gmail.com**
 - ⚡ Fun fact: **I think I'm funny**
 
