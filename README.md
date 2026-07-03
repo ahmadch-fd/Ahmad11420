@@ -25,7 +25,7 @@ I love transforming creative designs into smooth and functional mobile apps. My 
 - 👨‍💻 My complete portfolio is available at [GitHub Portfolio](https://github.com/ahmadch-fd)
 - 💬 Ask me about **Flutter, Dart, Firebase, REST APIs,Provider State Management**
 - 📫 Reach me at **ahmadbilal01142@gmail.com**
-- ⚡ Fun fact: **I think I'm funny**
+
 
 ---
 
